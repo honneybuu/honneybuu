@@ -1,3 +1,8 @@
+<style>
+  body { background-color: black; color: #00FF00; }
+  h1, h2, h3, h4, h5, h6 { color: #FF00FF; }
+</style>
+
 # YOUR-SFSLB-NETWORK
 
 👋 Hi, I'm @honneybuu, the creator of this SFSLBN project.
