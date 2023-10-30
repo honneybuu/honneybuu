@@ -22,7 +22,7 @@ This repository is dedicated to the development and implementation of the SFSLBN
 
 💞️ I'm looking forward to collaborating on this project with like-minded individuals. If you're interested, feel free to reach out!
 
-📫 How to reach me: Follow the [BLOCKCHAIN channel on WhatsApp](https://whatsapp.com/channel/0029VaDdHPu8kyyU7iiSlA3A) to contact us and receive further information.
+📫 How to reach me: Follow the [BLOCKCHAIN channel on WhatsApp](https://whatsapp.com/channel/0029VaDdHPu8kyyU7iiSlA3L) to contact us and receive further information.
 
 <!---
 honneybuu/YOUR-SFSLB-NETWORK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
